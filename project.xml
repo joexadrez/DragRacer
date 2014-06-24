@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<meta title="MachRacer" package="com.mvmvasconcelos.machracer" version="1.0.0" company="MVMVasoncelos" />
+
+ 	<app file="MachRacer" main="Main" path="bin" />
+
+	<window fps="60" background="#00ff33" />
+	<window width="420" height="800" unless="mobile" />
+	<window vsync="false" antialiasing="0" if="cpp" />
+	<window orientation="portrait" />
+
+	<source path="src" />
+
+	<haxelib name="HaxePunk" />
+
+	<icon path="assets/HaxePunk.svg" />
+
+	<assets path="assets/graphics" rename="gfx" type="image" include="*.png" />
+
+	<assets path="assets/audio" rename="audio" include="*.mp3" if="flash" />
+	<assets path="assets/audio" rename="audio" include="*.wav|*.ogg" unless="flash" />
+	<assets path="assets/font" rename="font" include="*.ttf" />
+
+</project>
