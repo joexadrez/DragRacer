@@ -1,0 +1,721 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"continu",
+				"continuação"
+			],
+			[
+				"marcad",
+				"Marcador"
+			],
+			[
+				"regi",
+				"Região"
+			],
+			[
+				"ameaça",
+				"Ameaça"
+			],
+			[
+				"her",
+				"Heróis"
+			],
+			[
+				"regiõe",
+				"Regiões"
+			],
+			[
+				"ação",
+				"Ação"
+			],
+			[
+				"Pl",
+				"PlayScene	class"
+			],
+			[
+				"Mou",
+				"mouseX"
+			],
+			[
+				"mou",
+				"mouseX"
+			],
+			[
+				"tex",
+				"textoNovoHighScore	var"
+			],
+			[
+				"sc",
+				"scaledHeight"
+			],
+			[
+				"TextFr",
+				"TextFormatAlign	flash.text"
+			],
+			[
+				"save",
+				"saveHighScore"
+			],
+			[
+				"no",
+				"novoAumentoVeloc	var"
+			],
+			[
+				"tra",
+				"trace"
+			],
+			[
+				"sca",
+				"scaledWidth"
+			],
+			[
+				"scal",
+				"scaledWidth"
+			],
+			[
+				"game",
+				"gameSpeed	var"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/PlayScene.hx",
+			"settings":
+			{
+				"buffer_size": 12199,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/vinicius/Dropbox/Public/Dev/Sublime Text 3 x64/Data/Packages/User/SublimeGit.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 6584,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Local:    master ~\\Dropbox\\Public\\Dev\\Haxe\\Projetos\\DragRacer\nHead:     1c1b6ce Add project\n\n\nUntracked files:\n	.gitignore\n	DragRacer.sublime-project\n	DragRacer.sublime-workspace\n	assets/\n	src/\n\n\n# Movement:\n#    r = refresh status\n#    1-5 = jump to section\n#    n = next item, N = next section\n#    p = previous item, P = previous section\n#\n# Staging:\n#    s = stage file/section, S = stage all unstaged files\n#    ctrl+shift+s = stage all unstaged and untracked files\n#    u = unstage file/section, U = unstage all files\n#    backspace = discard file/section, shift+backspace = discard everything\n#\n# Commit:\n#    c = commit, C = commit -a (add unstaged)\n#    ctrl+shift+c = commit --amend (amend previous commit)\n#\n# Other:\n#    i = ignore file, I = ignore pattern\n#    enter = open file\n#    d = view diff\n#\n# Stashes:\n#    a = apply stash, A = pop stash\n#    z = create stash, Z = create stash including untracked files\n#    backspace = discard stash",
+			"settings":
+			{
+				"buffer_size": 956,
+				"line_ending": "Windows",
+				"name": "*git-status*: DragRacer",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+			[
+				"git psu",
+				"Git: Push"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"gitpsu",
+				"Git: Push"
+			],
+			[
+				"git ad",
+				"Git: Add Remote"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"psuh",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"gitsta",
+				"Git: Status"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"gitstas",
+				"Git: Stash"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"bb",
+				"Set Syntax: IPS BBCode"
+			],
+			[
+				"run",
+				"Haxe: Run build"
+			],
+			[
+				"haxe",
+				"Haxe: Run build"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"join",
+				"Emmet: Split\\Join Tag"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"gipu",
+				"Git: Push"
+			],
+			[
+				"gar",
+				"Git: Add Remote"
+			],
+			[
+				"gin",
+				"Git: Init"
+			],
+			[
+				"gista",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"comen",
+				"Toggle Comment"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"come",
+				"Toggle Comment"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 236.0,
+		"history":
+		[
+			"import os; os.getenv('PATH')",
+			"import os;",
+			"which",
+			"which git",
+			"Git: Status",
+			"git status",
+			"haxelib list",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/vinicius/.ssh/known_hosts",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/.gitignore",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/bin/android/obj/include/com/haxepunk/graphics/Image.h",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/src/Gas.hx",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Sublime Text 3 x64/Data/Packages/User/SublimeGit.sublime-settings",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Sublime Text 3 x64/Data/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/assets/HaxePunk.svg",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/src/Player.hx",
+		"/C/Users/vinicius/Dropbox/love letter.txt",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/src/Driver.hx",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/src/TitleScene.hx",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/src/Main.hx",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/src/PlayScene.hx",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/project.xml",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/bin/android/bin/bin/MachRacer.ap_.d",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/bin/android/bin/bin/MachRacer.ap_",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/bin/android/bin/bin/MachRacer-debug.apk",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/bin/android/bin/bin/MachRacer-debug-unaligned.apk.d",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/bin/android/bin/bin/MachRacer-debug-unaligned.apk",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/bin/android/bin/bin/classes.dex.d",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/bin/android/bin/bin/classes.dex",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/bin/android/bin/bin/build.prop",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/bin/android/bin/bin/AndroidManifest.xml.d",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/bin/android/bin/bin/AndroidManifest.xml",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/bin/android/bin/assets/manifest",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/bin/android/bin/project.properties",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/bin/android/bin/build.xml",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/bin/android/bin/AndroidManifest.xml",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/bin/.build",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/assets/graphics/README",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/assets/font/Dalek.ttf.hash",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/assets/audio/README",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/bin/android/obj/include/com/haxepunk/graphics/_Text/StyleType_Impl_.h",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/bin/android/obj/include/com/haxepunk/TweenType.h",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/bin/android/obj/include/flash/display/GradientType.h",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/bin/android/obj/include/com/haxepunk/graphics/atlas/AtlasRegion.h",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/bin/android/obj/all_objs",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Sublime Text 3 x64/Data/Packages/User/Github Tools.sublime-settings",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/DragRacer/38ff5dc0-f26d-4041-a209-67cf72d2b0ba.dmp",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/MachRacer/src/Driver.hx",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/MachRacer/src/Gas.hx",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/MachRacer/src/TitleScene.hx",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/MachRacer/src/Main.hx",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/MachRacer/src/PlayScene.hx",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/MachRacer/bin/android/obj/include/flash/display/TriangleCulling.h",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/MachRacer/bin/android/obj/include/flash/display/StageAlign.h",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/MachRacer/bin/android/obj/include/com/haxepunk/utils/JoyButtonState.h",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/MachRacer/bin/android/obj/include/flash/display/JointStyle.h",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/MachRacer/src/MainScene.hx",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/MachRacer/bin/html5/bin/index.html",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/MachRacer/src/Player.hx",
+		"/C/Development/Android SDK/tools/ant/build.xml",
+		"/C/Users/vinicius/.hxcpp_config.xml",
+		"/C/Users/vinicius/Desktop/teste.cpp",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/MachRacer/src/PauseMenu.hx",
+		"/C/Users/vinicius/Desktop/teste.html",
+		"/C/Users/vinicius/Dropbox/Public/Dev/Haxe/Projetos/MachRacer/src/Hud.hx",
+		"/C/Development/teste/Teste1/src/TitleScene.hx",
+		"/C/Development/teste/Teste1/src/Main.hx",
+		"/C/Development/teste/Teste1/src/Driver.hx",
+		"/C/Development/teste/Teste1/src/PlayScene.hx",
+		"/C/Development/teste/Teste1/src/Player.hx",
+		"/C/Development/teste/Teste1/project.xml",
+		"/C/Development/teste/Teste1/bin/android/obj/include/openfl/display/DirectRenderer.h",
+		"/C/Users/vinicius/Desktop/Sublime Text Build 3059 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/vinicius/Desktop/Sublime Text Build 3059 x64/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Development/teste/Teste1/bin/android/obj/include/flash/display/TouchInfo.h",
+		"/C/Development/teste/Teste1/assets/HaxePunk.svg",
+		"/C/Development/teste/Teste1/bin/android/bin/src/package/MainActivity.java",
+		"/C/Development/teste/Teste1/bin/.build",
+		"/C/Development/teste/Teste1/bin/android/bin/AndroidManifest.xml",
+		"/C/Development/teste/Teste1/bin/android/bin/build.xml",
+		"/C/Development/teste/Teste1/1efd689e-a231-49a4-83ba-1997eced6bef.dmp"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"=1",
+			"=9",
+			"=85",
+			"[center]",
+			"ze=9",
+			"[center]",
+			"tempoBaseAdversario",
+			"tempoBaseMaxAdversario",
+			"tempoBaseAdversario",
+			"driverTimer",
+			"baseDriverTimer",
+			"DriverTimer",
+			"driverTimer",
+			"DriverTimer",
+			"driverTimer",
+			"baseDriverTimer",
+			"driverTimer",
+			"endTimer",
+			"<li>",
+			"mouseClicked",
+			"Mouse1",
+			"touch",
+			"move",
+			"right",
+			"Right",
+			"right",
+			");\n",
+			"tempo",
+			"]);\n",
+			"mouseClicked == 1",
+			"diferenca",
+			"Mouse2",
+			"mouseX",
+			"Mouse",
+			"track1",
+			"TextOptions",
+			"textoNovoHighScore",
+			"end",
+			"description",
+			", {align: \"CENTER\"}",
+			", {align: TextFormatAlign.CENTER}",
+			", {align: \"TextFormatAlign.CENTER\"}",
+			"TextFormatAlign.CENTER",
+			"description",
+			"maxPontuacao",
+			"textoAumentaVelocidade",
+			"description",
+			";\n",
+			"tempoDaMensagem",
+			"aumentaVeloc",
+			"conta1",
+			"sim",
+			"aumentaVeloc",
+			";\n",
+			");\n",
+			"();\n",
+			"ToFront",
+			"hud",
+			"player",
+			"Player",
+			"player",
+			"500",
+			"graphic",
+			"aumentaVeloc",
+			");",
+			"trace",
+			"novaVeloc",
+			"nivelVeloc",
+			"Text",
+			"T",
+			"\"\";\n",
+			"healthText",
+			"contaGas",
+			";\n",
+			"line",
+			"var",
+			";\n",
+			"healthText.x",
+			"healthText",
+			"gameOver"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/PlayScene.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9512,
+								9512
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4590.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/vinicius/Dropbox/Public/Dev/Sublime Text 3 x64/Data/Packages/User/SublimeGit.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								223,
+								223
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1566.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 956,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"draw_white_space": "none",
+							"git_repo": "C:\\Users\\vinicius\\Dropbox\\Public\\Dev\\Haxe\\Projetos\\DragRacer",
+							"git_status": true,
+							"git_view": "status",
+							"syntax": "Packages/SublimeGit/syntax/SublimeGit Status.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 294.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-init":
+	{
+		"height": 118.0
+	},
+	"output.git-pull":
+	{
+		"height": 118.0
+	},
+	"output.git-push":
+	{
+		"height": 118.0
+	},
+	"project": "DragRacer.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"playsc",
+				"src\\PlayScene.hx"
+			],
+			[
+				"",
+				"src\\TitleScene.hx"
+			],
+			[
+				"ttile",
+				"src\\TitleScene.hx"
+			],
+			[
+				"driver",
+				"src\\Driver.hx"
+			],
+			[
+				"play",
+				"src\\Player.hx"
+			],
+			[
+				"titl",
+				"src\\TitleScene.hx"
+			],
+			[
+				"main",
+				"src\\Main.hx"
+			],
+			[
+				"gas",
+				"src\\Gas.hx"
+			],
+			[
+				"drive",
+				"src\\Driver.hx"
+			],
+			[
+				"dri",
+				"src\\Driver.hx"
+			],
+			[
+				"title",
+				"src\\TitleScene.hx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
